@@ -1,0 +1,25 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "### In the root of the project, create a file called .env",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksatter/test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksatter/test-repo/issues"
+  },
+  "homepage": "https://github.com/ksatter/test-repo#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}

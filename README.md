@@ -7,6 +7,6 @@
     USER_NAME="My Name"
     USER_EMAIL="my@email.com"
 
-### Install depemdencies using ```npm install```
+### Install dependencies using ```npm install```
 
 ### Run the program with ```npm start```
